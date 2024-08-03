@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DRAY777?tab=projects](https://github.com/DRAY777?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/xor-xeno?tab=projects](https://github.com/xor-xeno?tab=projects)
 
 - 📫 How to reach me **dipendu007x@proton.me**
 
