@@ -7,7 +7,7 @@
 ###
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xor-xeno?tab=projects](https://github.com/xor-xeno?tab=projects)
 
