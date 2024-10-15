@@ -7,7 +7,7 @@
 ###
 
 
-- 🌱 I’m currently learning **C AND JS**
+- 🌱 I’m currently learning **JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xor-xeno?tab=projects](https://github.com/xor-xeno?tab=projects)
 
