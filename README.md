@@ -61,13 +61,3 @@
 </div>
 
 
-<!-- Visit Counter -->
-<div align="center">
-  
-## 🍀 Profile Views 👾
-
-<div>
-<img src="https://profile-counter.glitch.me/blezecon/count.svg?"  />
-</div>
-    
-</div>
