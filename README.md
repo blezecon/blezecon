@@ -1,3 +1,8 @@
+<!-- Counter -->
+<div align="center">
+<img src="https://count.getloli.com/@demo?theme=minecraft" />
+</div>
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blezecon&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
