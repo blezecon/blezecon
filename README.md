@@ -1,6 +1,6 @@
 <!-- Counter -->
 <div align="center">
-<img src="https://count.getloli.com/@demo?theme=minecraft" />
+<img src="https://count.getloli.com/@blezecon?theme=minecraft" />
 </div>
 
 <!-- Stats -->
