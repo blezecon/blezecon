@@ -1,5 +1,11 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron+Code&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=480&lines=Hi,+I'm+Dipendu+Ray+AKA+BlezecoN;Welcome+to+my+profile;I+Use+Arch+BTW" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&&lines=Hi,+I'm+Dipendu+Ray+AKA+BlezecoN;Welcome+to+my+Profile;I+Use+Arch+BTW" />
 </p>
 
 ## 
