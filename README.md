@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron+Code&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=480&lines=Hi,+I'm+Dipendu+Ray+AKA+BlezecoN;Welcome+to+my+profile;I+Use+Arch+BTW" />
+</p>
+
+## 
 <!-- Counter -->
 <div align="center">
 <img src="https://count.getloli.com/@blezecon?theme=minecraft" />
@@ -5,8 +10,8 @@
 <br>
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blezecon&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blezecon&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=blezecon&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="45%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blezecon&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41.8%" /> </br>
 </div>
 
 
