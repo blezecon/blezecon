@@ -17,7 +17,7 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blezecon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="45%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blezecon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blezecon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="30%" /> </br>
 </div>
 
 
