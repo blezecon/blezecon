@@ -16,7 +16,6 @@
 <br>
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blezecon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="45%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blezecon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%" /> </br>
 </div>
 
@@ -36,19 +35,9 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=express" width="40" alt="express logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs logo"  />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="tailwindcss logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="googlecloud logo"  />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" alt="bash logo"  />
     <img width="12" />
@@ -56,15 +45,9 @@
     <img width="12" />
     <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="docker logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="figma logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="jupyter logo"  />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="nvim logo"  />
     
   </div>
 </div>
