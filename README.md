@@ -12,9 +12,10 @@
 <!-- Counter -->
 <div align="center">
 <!-- <img src="https://count.getloli.com/@blezecon?theme=minecraft" /> -->
+
+[![An image of @blezecon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blezecon)](https://holopin.io/@blezecon)
   
 </div>
-[![An image of @blezecon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blezecon)](https://holopin.io/@blezecon)
 <br>
 <!-- Stats -->
 <div align="center">
