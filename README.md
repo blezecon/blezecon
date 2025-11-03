@@ -11,8 +11,10 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" border="0" alt="animated-line-image-0015" width="100%" /></a>
 <!-- Counter -->
 <div align="center">
-<img src="https://count.getloli.com/@blezecon?theme=minecraft" />
+<!-- <img src="https://count.getloli.com/@blezecon?theme=minecraft" /> -->
+  
 </div>
+[![An image of @blezecon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blezecon)](https://holopin.io/@blezecon)
 <br>
 <!-- Stats -->
 <div align="center">
