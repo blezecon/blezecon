@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&&lines=Hi,+I'm+Dipendu+Ray+AKA+BlezecoN;Welcome+to+my+Profile;I+Use+Arch+BTW" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&&lines=Hi,+I'm+Dipendu+Ray+AKA+BlezecoN;Welcome+to+my+Profile;I+Am+Not+Mid" />
 </p>
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" border="0" alt="animated-line-image-0015" width="100%" /></a>
