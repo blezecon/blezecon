@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&&lines=Hi,+I'm+Dipendu+Ray+AKA+BlezecoN;Welcome+to+my+Profile;I+Am+Not+Mid" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&&lines=Hi,+I'm+Dipendu+Ray+AKA+BlezecoN;Welcome+to+my+Profile" />
 </p>
 <hr>
 <!-- Counter -->
