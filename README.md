@@ -26,7 +26,12 @@
 [![An image of @blezecon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blezecon)](https://holopin.io/@blezecon)
   
 </div>
-<br>
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/607973868379963452?hideActivity=true&hideSpotify=true)](https://discord.com/users/607973868379963452)
+</div>
+<hr>
 <!-- Stats -->
 <!-- Tech Stack -->
 <div align="center">
