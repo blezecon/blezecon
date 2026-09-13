@@ -45,8 +45,8 @@
   </a>
 </p>
 
-<hr>
-<!-- Snake Animation -->
+<!-- <hr>
+
 <div align="center">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blezecon/blezecon/output/pacman-contribution-graph-dark.svg">
@@ -55,4 +55,4 @@
   </picture>
 </div>
 
-<hr>
+<hr> -->
